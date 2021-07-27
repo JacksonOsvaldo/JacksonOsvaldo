@@ -19,6 +19,7 @@ Backend developer. Entrepreneur. Student of Systems Analysis and Development.
 ![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-Docker-0073ec?logo=docker&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-NGINX-339933?logo=nginx&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-AWS-f79400?logo=amazon&logoColor=white&style=plastic)
