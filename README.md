@@ -1,6 +1,6 @@
 # Jackson Osvaldo
 
-Desenvolvedor Backend. Empreendedor. Cursa Análise e Desenvolvimento de Sistemas.
+Backend developer. Entrepreneur. Student of Systems Analysis and Development.
 
 
 ## Contact
