@@ -5,11 +5,11 @@ Desenvolvedor Backend. Empreendedor. Cursa Análise e Desenvolvimento de Sistema
 
 ## Contact
 
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/fernandoleonid)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/jacksonosvaldo)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/JacksonOsvaldo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-osvaldo)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jacksonenazus@gmail.com)
-[![World Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&logo=world&logoColor=white)](https://jacksonosvaldo.github.io/)
+[![World Badge](https://img.shields.io/badge/-Blog-yellow?style=flat-square&logo=world&logoColor=white)](https://jacksonosvaldo.github.io/)
 
 
 ## Skills
